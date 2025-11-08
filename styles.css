@@ -1,0 +1,16 @@
+header {
+    background: linear-gradient(to bottom right, hsl(220 90% 60%), hsl(219, 49%, 91%));
+    color: white;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1;
+    flex-wrap: wrap;
+}
+
+svg {
+    width: 2.5rem;
+    height: 2.5rem;
+}
